@@ -11,9 +11,9 @@ A RP2350 based devboard with esp c6 mini integration for wifi + bluetooth.
 <div align="center">
 <img alt="Back Render" src="images/backrender" width="400">
 
-| Front Render                            | PCB                    |
-| --------------------------------------- | ---------------------- |
-| ![Front Render](images/frontrender.png) | ![PCB](Images/PCB.png) |
+| Front Render                            | PCB                         |
+| --------------------------------------- | --------------------------- |
+| ![Front Render](images/frontrender.png) | ![PCB](Images/frontpcb.png) |
 
 </div>
 
